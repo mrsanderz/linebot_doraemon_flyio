@@ -34,7 +34,7 @@ https://developers.line.biz/en/services/messaging-api/
 可以參考這篇部屬方式: https://hackmd.io/@littlehsun/linechatbot
 > LINE 群組進行對話
 (確定fly.io以部屬完成且成功運行 p.s. fly.io已經不能說完全免費了，註冊帳號後提示帳號不安全，花了10美金unlock...，網上也有被誤收費的案例，慎用)
-![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/8767559d-cb60-48b5-afad-44a654bd44cf =300x300)
+<img src="https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/8767559d-cb60-48b5-afad-44a654bd44cf" width="300" height="300">
 
 ## 功能
 - 接收 LINE 訊息
