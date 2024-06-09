@@ -16,19 +16,18 @@
 https://developers.line.biz/en/services/messaging-api/
 > 2. 建立一個Bot，Channel Secret就是程式中'YOUR Channel Secret'
 本專案不用Line bot respond所以不需要issue "Channel access token"
-![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/82ed84a9-6f2d-4640-afee-024e37e0e4ee)
+![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/82ed84a9-6f2d-4640-afee-024e37e0e4ee =300x300)
 > 3. 輸入webhook(需先在fly.io create app(fly launch)得到hostname)
-![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/e7c00832-8cd5-4612-acc1-de4df3f4a13b)
+![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/e7c00832-8cd5-4612-acc1-de4df3f4a13b =300x300)
 
 ### 3. LINE Notify
 > 進入https://notify-bot.line.me/my/
 右上角頭像->個人頁面->發行存取權杖 (測試用，只測試發行個人權杖，也就是不給其他人訂閱)
 發行後可以複製權杖，也就是程式中'YOUR line_notify_token'
-![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/0db894b8-5229-49e4-abb6-4f95c5c99ead)
-
+![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/0db894b8-5229-49e4-abb6-4f95c5c99ead =300x300)
 ### 4. LINE 測試群組
 > 把LINE Notify跟LINT Bot拉入群組
-![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/ffb65290-1f4f-45bd-a09f-58068483ffb9)
+![image](https://github.com/mrsanderz/linebot_doraemon_flyio/assets/37920668/03853132-9124-45e7-8363-0b2754c374c5 =300x300)
 
 ### 5 fly.io部屬
 > fly.io部屬
